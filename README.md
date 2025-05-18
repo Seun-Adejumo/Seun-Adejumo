@@ -9,7 +9,7 @@ A little more details for you below:
 - 🌱 I’m currently learning study simulations, method developments, predictive modelling and machine learning
 - 👯 I’m looking to collaborate on anything related to predictive modelling, machine learning, and more generally data science
 - 📫 How to reach me: excel.asa@gmail.com
-- ⚡ Fun fact: I sing when I'm tired of coding. ~~I may take music as my side hustle though~~
+- ⚡ Fun fact: I sing when I'm tired of coding. ~~I may consider music as my side hustle though.~~ 😉
 
 *Feel free to reach out for collaboration and support.*
 
