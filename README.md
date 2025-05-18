@@ -1,16 +1,15 @@
-## Hi there 👋
+# About me
 
-<!--
-**Seun-Adejumo/Seun-Adejumo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Biostatistician/Data Scientist with interests in high dimensional data, and longitudinal models. The ideal is to apply these methods to improve population health outcomes. 
+I have associate deegrees in Statistics, BSc in Demography and Statistics, and MS in Biostatistics & Epidemiology. PhD?...Emm., thinking about it! 
 
-Here are some ideas to get you started:
+A little more details for you below:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on latent class analysis and its application to allostatic allostatic load
+- 🌱 I’m currently learning study simulations, method developments, predictive modelling and machine learning
+- 👯 I’m looking to collaborate on anything related to predictive modelling, machine learning, and more generally data science
+- 📫 How to reach me: excel.asa@gmail.com
+- ⚡ Fun fact: I sing when I'm tired of coding. ~~I may take music as my side hustle though~~
+
+*Feel free to reach out for collaboration and support.*
+
