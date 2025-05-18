@@ -13,3 +13,10 @@ A little more details for you below:
 
 *Feel free to reach out for collaboration and support.*
 
+# Skills
+
+[![My Skills](https://skillicons.dev/icons?i=r,sqlite,git,latex&theme=dark)](https://skillicons.dev)
+
+
+
+
