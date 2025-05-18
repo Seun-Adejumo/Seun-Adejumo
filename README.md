@@ -1,7 +1,7 @@
 # About me
 
 I am a Biostatistician/Data Scientist with interests in high dimensional data, and longitudinal models. The ideal is to apply these methods to improve population health outcomes. 
-I have associate deegrees in Statistics, BSc in Demography and Statistics, and MS in Biostatistics & Epidemiology. PhD?...Emm., thinking about it! 
+I have associate degree in Statistics, BSc in Demography and Statistics, and MS in Biostatistics & Epidemiology. PhD?...Emm., thinking about it! 
 
 A little more details for you below:
 
