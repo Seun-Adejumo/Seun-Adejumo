@@ -1,5 +1,5 @@
 # About me
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Specimen&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&lines=Welcome+to+my+cyberspace!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Specimen&pause=1000&color=FFFFFF&background=000000&center=true&vCenter=true&width=1000&lines=Welcome+to+my+cyberspace!)](https://git.io/typing-svg) 
 
 I am a Biostatistician/Data Scientist with interests in high dimensional data, and longitudinal models. The ideal is to apply these methods to improve population health outcomes. 
 I have associate degree in Statistics, BSc in Demography and Statistics, and MS in Biostatistics & Epidemiology. PhD?...Emm., thinking about it! 
