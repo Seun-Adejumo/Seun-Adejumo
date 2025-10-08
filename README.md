@@ -8,7 +8,7 @@ A little more details for you below:
 
 - 🔭 I’m currently working on predictive modelling, machine learning and application of latent class analysis to allostatic load
 - 🌱 I’m currently learning study simulations and method developments
-- 👯 I’m looking to collaborate on anything related to predictive modelling, machine learning, and more generally data science
+- 👯 I’m looking to collaborate on anything related to causal inference, predictive modelling, machine learning, and more generally data science
 - 📫 How to reach me: excel.asa@gmail.com
 - ⚡ Fun fact: I sing when I'm tired of coding. ~~I may consider music as my side hustle you know.~~ 😉
 
